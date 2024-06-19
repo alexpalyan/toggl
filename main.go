@@ -8,9 +8,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/sachaos/toggl/cache"
-	"github.com/sachaos/toggl/command"
-	"github.com/sachaos/toggl/lib"
+	"github.com/alexpalyan/toggl/cache"
+	"github.com/alexpalyan/toggl/command"
+	"github.com/alexpalyan/toggl/lib"
 	"github.com/spf13/viper"
 	"github.com/urfave/cli"
 )

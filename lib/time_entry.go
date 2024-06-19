@@ -29,7 +29,7 @@ func (timeEntry TimeEntry) AddParam() interface{} {
 	param["duration"] = timeEntry.Duration
 	param["workspace_id"] = timeEntry.WorkspaceID
 	param["description"] = timeEntry.Description
-	param["created_with"] = "sachaos/toggl"
+	param["created_with"] = "alexpalyan/toggl"
 	return param
 }
 

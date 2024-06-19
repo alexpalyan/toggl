@@ -4,7 +4,7 @@ import (
 	"encoding/csv"
 	"os"
 
-	"github.com/sachaos/toggl/util"
+	"github.com/alexpalyan/toggl/util"
 	"github.com/urfave/cli"
 )
 

@@ -46,7 +46,7 @@ GLOBAL OPTIONS:
 To install, use `go get`:
 
 ```bash
-$ go get github.com/sachaos/toggl
+$ go install github.com/alexpalyan/toggl
 ```
 
 ### Register API token

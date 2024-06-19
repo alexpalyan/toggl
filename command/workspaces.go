@@ -3,8 +3,8 @@ package command
 import (
 	"strconv"
 
-	"github.com/sachaos/toggl/cache"
-	toggl "github.com/sachaos/toggl/lib"
+	"github.com/alexpalyan/toggl/cache"
+	toggl "github.com/alexpalyan/toggl/lib"
 	"github.com/spf13/viper"
 	"github.com/urfave/cli"
 )
